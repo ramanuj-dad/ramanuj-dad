@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ramanuj
 - 👀 I’m interested in AWS. K8s, Java
-- 🌱 I’m currently learning DevOps/SRE
+- 🌱 I’m building cloud native cool stuff.
 - 💞️ I’m looking to collaborate on Dev tools
 - 📫 How to reach me -> discord rockybhanu#6265
 
